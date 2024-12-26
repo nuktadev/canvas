@@ -18,7 +18,7 @@
     "axios": "^1.7.8",
     "better-react-mathjax": "^2.0.3",
     "formik": "^2.4.6",
-    "framer-motion": "^11.1.7",
+    "framer-motion": "^11.13.1",
     "html2canvas": "^1.4.1",
     "konva": "^9.3.14",
     "lucide-react": "^0.379.0",
