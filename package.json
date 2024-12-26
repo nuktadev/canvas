@@ -28,7 +28,7 @@
     "react-dom": "^18",
     "react-hook-form": "^7.52.1",
     "react-konva": "^18.2.10",
-    "swiper": "^11.1.1",
+    "swiper": "^11.1.15",
     "use-debounce": "^10.0.0",
     "yarn": "^1.22.22"
   },
