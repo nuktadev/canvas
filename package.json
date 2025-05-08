@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ant-design/icons": "^5.3.6",
+    "@ant-design/icons": "^6.0.0",
     "@ant-design/nextjs-registry": "^1.0.0",
     "@plasmicapp/loader-nextjs": "^1.0.397",
     "@types/react-canvas-draw": "^1.2.3",
